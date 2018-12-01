@@ -1,1 +1,1 @@
-Simple Calculator v1.0 
+Simple Calculator v1.0
